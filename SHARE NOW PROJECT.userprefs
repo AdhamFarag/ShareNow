@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="SHARE NOW PROJECT.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\UIHandler.cs">
+    <Files>
+      <File FileName="Assets\push.cs" Line="1" Column="1" />
+      <File FileName="Assets\UIHandler.cs" Line="43" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

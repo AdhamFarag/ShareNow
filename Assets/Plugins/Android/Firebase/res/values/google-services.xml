@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://club-app-3.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">885847840944</string>
+  <string name="google_storage_bucket" translatable="false">club-app-3.appspot.com</string>
+  <string name="project_id" translatable="false">club-app-3</string>
+  <string name="google_api_key" translatable="false">AIzaSyDbR9xlghbSLUJ-j03aoHCgwBzdBR8EGG0</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDbR9xlghbSLUJ-j03aoHCgwBzdBR8EGG0</string>
+  <string name="google_app_id" translatable="false">1:885847840944:android:5972e280fd14ac48</string>
+  <string name="default_web_client_id" translatable="false">885847840944-ltoilob5sigj7aa9g6kk38fls4n02b94.apps.googleusercontent.com</string>
+</resources>

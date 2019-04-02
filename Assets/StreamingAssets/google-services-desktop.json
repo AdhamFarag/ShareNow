@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 0
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "885847840944-bc6a30p5gb8o20jf0d5qtpor52praref.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyAizog6a57GJUD2y2ZyC2BA2yR2GpkxYNE"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:885847840944:ios:5972e280fd14ac48", 
+        "android_client_info": {
+          "package_name": "com.ShareNow.Sharenowproj1234"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "club-app-3.appspot.com", 
+    "project_id": "club-app-3", 
+    "firebase_url": "https://club-app-3.firebaseio.com", 
+    "project_number": "885847840944"
+  }
+}

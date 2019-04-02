@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 69812927019d54d48aef16a5f5f05161
+timeCreated: 1533843292
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Monicas Salon NF
+  fontNames:
+  - Monicas Salon NF
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
